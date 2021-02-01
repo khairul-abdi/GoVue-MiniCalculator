@@ -1,6 +1,6 @@
 # Mini Calculator
 
-## In this App, we need 5 dependencies below:
+## In this application using technology:
 - Backend
   - GO
 
